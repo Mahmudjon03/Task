@@ -1,0 +1,12 @@
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/bin/Debug/net7.0/Domain.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/bin/Debug/net7.0/Domain.pdb
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/Domain.pdb
+/home/mahmud/Desktop/TaskShukrMoliya/Domain/obj/Debug/net7.0/ref/Domain.dll

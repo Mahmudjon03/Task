@@ -1,0 +1,17 @@
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/bin/Debug/net7.0/Infrastructure.runtimeconfig.json
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/bin/Debug/net7.0/Domain.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/Infrastructure.genruntimeconfig.cache
+/home/mahmud/Desktop/TaskShukrMoliya/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
